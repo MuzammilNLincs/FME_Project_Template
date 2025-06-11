@@ -14,7 +14,6 @@ This repository serves as a template for FME (Feature Manipulation Engine) proje
 - `scripts/`: Contains scripts for automation or data processing.
 - `docs/`: Documentation and usage notes.
 
-"""
 FME_Project_Template/
 ├── workspaces/                         # FME workspace files (.fmw)
 ├── scripts/                            # Automation or helper scripts
@@ -28,7 +27,6 @@ FME_Project_Template/
     └── PULL_REQUEST_TEMPLATE/
         ├── new-workspace.md           # Template for new workspace PRs
         └── update-workspace.md        # Template for workspace updates
-"""
 
 ## 🧪 Testing
 Use test datasets located in `/test/` (if applicable).

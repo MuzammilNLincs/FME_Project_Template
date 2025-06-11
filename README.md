@@ -14,19 +14,21 @@ This repository serves as a template for FME (Feature Manipulation Engine) proje
 - `scripts/`: Contains scripts for automation or data processing.
 - `docs/`: Documentation and usage notes.
 
+```
 FME_Project_Template/
-├── workspaces/                         # FME workspace files (.fmw)
-├── scripts/                            # Automation or helper scripts
-├── input/                              # Input datasets for testing or production
-├── output/                             # Output results from FME workspaces
+├── workspaces/                         # FME workspace files (.fmw)
+├── scripts/                            # Automation or helper scripts
+├── input/                              # Input datasets for testing or production
+├── output/                             # Output results from FME workspaces
 ├── docs/
-│   └── README.md                       # General usage and best practices
-├── .gitignore                          # FME-specific ignore rules
+│   └── README.md                       # General usage and best practices
+├── .gitignore                          # FME-specific ignore rules
 └── .github/
-    ├── pull_request_template.md        # Default PR checklist
-    └── PULL_REQUEST_TEMPLATE/
-        ├── new-workspace.md           # Template for new workspace PRs
-        └── update-workspace.md        # Template for workspace updates
+    ├── pull_request_template.md        # Default PR checklist
+    └── PULL_REQUEST_TEMPLATE/
+        ├── new-workspace.md           # Template for new workspace PRs
+        └── update-workspace.md        # Template for workspace updates
+```
 
 ## 🧪 Testing
 Use test datasets located in `/test/` (if applicable).

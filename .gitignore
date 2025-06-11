@@ -1,0 +1,10 @@
+
+# FME temporary and backup files
+*.fmx
+*.fmw.recover
+*.fmw.lock
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
